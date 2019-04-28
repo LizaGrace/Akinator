@@ -1,0 +1,29 @@
+INSERT INTO `ai`.`animales` (`id`, `nombre`, `nacimiento`, `color`, `numPatas`, `peloPlumas`, `voz`, `link`) 
+VALUES ('1', 'perro', 'viviparo', 'cafe', '4', 'pelo', 'ladra', 'C:\\\\animales\\\\1.jpg');
+
+INSERT INTO `ai`.`animales` (`id`, `nombre`, `nacimiento`, `color`, `numPatas`, `peloPlumas`, `voz`, `link`) 
+VALUES ('2', 'gato', 'viviparo', 'cafe', '4', 'pelo', 'maulla', 'C:\\\\animales\\\\2.jpg');
+
+INSERT INTO `ai`.`animales` (`id`, `nombre`, `nacimiento`, `color`, `numPatas`, `peloPlumas`, `voz`, `link`) 
+VALUES ('3', 'elefante', 'viviparo', 'gris', '4', 'pelo', 'barrita', 'C:\\\\animales\\\\3.jpg');
+
+INSERT INTO `ai`.`animales` (`id`, `nombre`, `nacimiento`, `color`, `numPatas`, `peloPlumas`, `voz`, `link`) 
+VALUES ('4', 'gallina', 'oviparo', 'blanco', '2', 'plumas', 'cacarea', 'C:\\\\animales\\\\4.jpg');
+
+INSERT INTO `ai`.`animales` (`id`, `nombre`, `nacimiento`, `color`, `numPatas`, `peloPlumas`, `voz`, `link`) 
+VALUES ('5', 'leon', 'viviparo', 'cafe', '4', 'pelo', 'ruge', 'C:\\\\animales\\\\5.jpg');
+
+INSERT INTO `ai`.`animales` (`id`, `nombre`, `nacimiento`, `color`, `numPatas`, `peloPlumas`, `voz`, `link`) 
+VALUES ('6', 'oveja', 'viviparo', 'blanco', '4', 'pelo', 'bala', 'C:\\\\animales\\\\6.jpg');
+
+INSERT INTO `ai`.`animales` (`id`, `nombre`, `nacimiento`, `color`, `numPatas`, `peloPlumas`, `voz`, `link`) 
+VALUES ('7', 'vaca', 'vivparo', 'blanco/negro', '4', 'pelo', 'muge', 'C:\\\\animales\\\\7.jpg');
+
+INSERT INTO `ai`.`animales` (`id`, `nombre`, `nacimiento`, `color`, `numPatas`, `peloPlumas`, `voz`, `link`) 
+VALUES ('8', 'flamingo', 'oviparo', 'rosa', '2', 'plumas', 'grazna', 'C:\\\\animales\\\\8.jpg');
+
+INSERT INTO `ai`.`animales` (`id`, `nombre`, `nacimiento`, `color`, `numPatas`, `peloPlumas`, `voz`, `link`) 
+VALUES ('9', 'cuervo', 'oviparo', 'negro', '2', 'plumas', 'grazna', 'C:\\\\animales\\\\9.jpg');
+
+INSERT INTO `ai`.`animales` (`id`, `nombre`, `nacimiento`, `color`, `numPatas`, `peloPlumas`, `voz`, `link`) 
+VALUES ('10', 'lobo', 'viviparo', 'gris', '4', 'pelo', 'aulla', 'C:\\\\animales\\\\10.jpg');

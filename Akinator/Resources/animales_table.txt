@@ -1,0 +1,21 @@
+CREATE TABLE `ai`.`animales` (
+  
+`id` INT UNSIGNED NOT NULL AUTO_INCREMENT,
+  
+`nombre` VARCHAR(30) NULL,
+  
+`nacimiento` VARCHAR(20) NULL,
+  
+`color` VARCHAR(15) NULL,
+  
+`numPatas` VARCHAR(1) NULL,
+  
+`peloPlumas` VARCHAR(10) NULL,
+  
+`voz` VARCHAR(15) NULL,
+  
+`link` VARCHAR(100) NULL,
+  
+PRIMARY KEY (`id`),
+  
+UNIQUE INDEX `id_UNIQUE` (`id` ASC));

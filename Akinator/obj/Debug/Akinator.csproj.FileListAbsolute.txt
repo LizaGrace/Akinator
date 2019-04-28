@@ -1,0 +1,15 @@
+C:\VisualStudioProjects\Akinator\Akinator\bin\Debug\Akinator.exe.config
+C:\VisualStudioProjects\Akinator\Akinator\bin\Debug\Akinator.exe
+C:\VisualStudioProjects\Akinator\Akinator\bin\Debug\Akinator.pdb
+C:\VisualStudioProjects\Akinator\Akinator\bin\Debug\MySql.Data.dll
+C:\VisualStudioProjects\Akinator\Akinator\bin\Debug\Google.Protobuf.dll
+C:\VisualStudioProjects\Akinator\Akinator\bin\Debug\MySql.Data.xml
+C:\VisualStudioProjects\Akinator\Akinator\obj\Debug\Akinator.csprojAssemblyReference.cache
+C:\VisualStudioProjects\Akinator\Akinator\obj\Debug\Akinator.Properties.Resources.resources
+C:\VisualStudioProjects\Akinator\Akinator\obj\Debug\Akinator.csproj.GenerateResource.cache
+C:\VisualStudioProjects\Akinator\Akinator\obj\Debug\Akinator.csproj.CoreCompileInputs.cache
+C:\VisualStudioProjects\Akinator\Akinator\obj\Debug\Akinator.csproj.CopyComplete
+C:\VisualStudioProjects\Akinator\Akinator\obj\Debug\Akinator.exe
+C:\VisualStudioProjects\Akinator\Akinator\obj\Debug\Akinator.pdb
+C:\VisualStudioProjects\Akinator\Akinator\obj\Debug\Akinator.Akinator.resources
+C:\VisualStudioProjects\Akinator\Akinator\obj\Debug\Akinator.AkiResults.resources
